@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KeyboardTransformation": {
+      "commandName": "Project",
+      "commandLineArgs": "BiggerDimensionText.txt BiggerDimensionCommand.txt"
+    }
+  }
+}
